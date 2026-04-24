@@ -191,15 +191,6 @@ const KegiatanInti = () => {
         Perhatikan masukan atau pertanyaan yang diberikan oleh gurumu maupun
         temanmu.
       </p>
-      <p>
-        <a
-          href="https://onepagelove.com/sphere"
-          className="cta-project"
-          title="Visit custom link"
-        >
-          Link →
-        </a>
-      </p>
     </div>
   );
 };
