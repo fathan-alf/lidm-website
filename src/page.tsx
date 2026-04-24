@@ -1,4 +1,4 @@
-import BioSection from "./_components/BioSection";
+// import BioSection from "./_components/BioSection";
 import Footer from "./_components/Footer";
 import Navbar from "./_components/Navbar";
 import HeroSection from "./_sections/HeroSection";
